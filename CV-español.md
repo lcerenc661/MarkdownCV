@@ -1,12 +1,16 @@
-<div style="display: grid; grid-template-columns: 7fr 3fr; gap: 1.5rem; font-size: 0.85rem;">
+<div style="display: grid; grid-template-columns: 7fr 4fr; gap: 1.5rem; font-size: 0.85rem;">
 
   <!-- Columna principal (3fr) -->
   <div class="main-column">
 
 <h1 class="nombre">Luis Alberto Ceren</h1>
-<span class="subtitle">Desarrollador de software con experiencia en diseño de producto y gestión de proyectos.</span>  He trabajado en el desarrollo de soluciones frontend y backend, integrando servicios en la nube y prácticas modernas como CI/CD.Me caracterizo por una mentalidad proactiva y un compromiso con la mejora continua, lo que me lleva a estudiar y aprender constantemente tecnologías y nuevos conceptos.
+<h4 class="job">Software developer</h4>
+<span class="info">Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
 
-<h2>Experiencia Profesional**</h2>
+<span
+ class="subtitle">Desarrollador de software con experiencia en diseño de producto y gestión de proyectos.</span>  He trabajado en el desarrollo de soluciones frontend y backend, integrando servicios en la nube y prácticas como CI/CD. Me caracterizo por una mentalidad proactiva y un compromiso con la mejora continua, lo que me lleva a estudiar y aprender constantemente tecnologías y nuevos conceptos.
+
+<h2 class="section-title">Experiencia Profesional</h2>
 
 ### **Aim Edge Apps**  
 <span class="location">_Medellín_</span>  
@@ -33,12 +37,16 @@
 - Coordiné el diseño, desarrollo y producción de subproductos plásticos mediante el trato directo con los proveedores y la línea de ensamble.  
 - Diseñé piezas gráficas para las motocicletas y otras necesidades del área.
 
+
+
+
+
   </div>
 
   <!-- Barra lateral (1fr) -->
   <div class="sidebar">
 
-## **Skills**
+<h2 class="section-title">Skills</h2>
 
 **Técnicos**  
 <span class="skills">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest`  
@@ -48,7 +56,7 @@
 - Español: <span class="highlight">Nativo</span>  
 - English: <span class="highlight">Fluido (C1)</span>
 
-## **Educación**
+<h2 class="section-title">Educación</h2>
 
 <div class="education-item">
   <h5 class="education-title">Bootcamps / Cursos</h5>
@@ -67,6 +75,28 @@
   <h5 class="education-title">EAFIT</h5>
   <span class="education-degree">Ingeniería de Diseño de Producto</span>   
   <span class="date">Fecha de grado: Junio 2020</span>
+
+
+  <h2 class="section-title">Referencias </h2>
+
+
+<div class="reference-item">
+  <span class="reference-name"><strong>Mauricio Guzmán</strong></span><br>
+  <span class="reference-role">Global Innovation Manager - LLYC</span><br>
+  <span class="reference-phone">Celular: +57 321 8823 946</span>
+</div>
+
+<div class="reference-item">
+  <span class="reference-name"><strong>Juan Camilo Echeverrí</strong></span><br>
+  <span class="reference-role">Full Stack Developer - Wompi</span><br>
+  <span class="reference-phone">Celular: +57 316 2469 782</span>
+</div>
+
+<div class="reference-item">
+  <span class="reference-name"><strong>Alejandro Ceren</strong></span><br>
+  <span class="reference-role">Master Data Analyst - Accenture</span><br>
+  <span class="reference-phone">Celular: +57 313 6031 487</span>
+</div>
 </div>
 
   
@@ -74,14 +104,39 @@
 
 <style>
 
-    .nombre {
+.info {
+    font-size: 0.9rem;
+    color: #555;
+    margin-bottom: 1rem;
+    font-family: calibri, sans-serif;
+    display: block;
+    margin-top: -0.5rem;
+  }
+
+  .job {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color:rgba(51, 51, 51, 0.48);
+    margin-bottom: 0.5rem;
+    margin-top: -1rem;
+    font-family: calibri, sans-serif;
+  }
+
+  .nombre {
     font-size: 2rem;
     font-weight: 600;
     color: #333;
     margin-bottom: 0.2rem;
     }
 
-
+  .section-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(80, 80, 80);
+    margin-top: 2rem;
+    margin-bottom: 0.2rem;
+    border-bottom: 0.1rem solid rgba(212, 212, 212, 0.52);
+  }
 
   .main-column {
     padding: 1rem;
@@ -122,7 +177,6 @@
   .education-degree {
     font-weight: 200;
     font-style: italic;
-    border-bottom : 0.05rem solid rgba(212, 212, 212, 0.52);
   }
 </style>
 
@@ -130,7 +184,6 @@
   .education-item {
     margin-bottom: 0.8rem;
     padding: 0.5rem 0;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   }
 
   .education-title {
@@ -152,7 +205,6 @@
     font-size: 0.9rem;
     color: #777;
     display: block;
-    margin-bottom: 0.2rem;
     margin-top: -0.8rem;
   }
 
@@ -166,4 +218,26 @@
     color: #444;
     margin-top: 0.2rem;
   }
+
+    .reference-item {
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    font-family: calibri, sans-serif;
+  }
+
+  .reference-name {
+    font-size: 1rem;
+    color: #333;
+  }
+
+  .reference-role {
+    font-size: 0.9rem;
+    color: #555;
+  }
+
+  .reference-phone {
+    font-size: 0.9rem;
+  }
+
+  
 </style>
