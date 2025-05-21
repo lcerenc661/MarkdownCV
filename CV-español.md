@@ -1,4 +1,4 @@
-<div style="display: grid; grid-template-columns: 7fr 4fr; gap: 1.5rem; font-size: 0.85rem;">
+<div style="display: grid; grid-template-columns: 7fr 4fr; gap: 1.5rem; font-size: 0.85rem; margin-top: -2rem;">
 
   <!-- Columna principal (3fr) -->
   <div class="main-column">
@@ -8,13 +8,11 @@
 <span class="info">Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
 
 <span
- class="subtitle">Desarrollador de software con experiencia en diseño de producto y gestión de proyectos.</span>  He trabajado en el desarrollo de soluciones frontend y backend, integrando servicios en la nube y prácticas como CI/CD. Me caracterizo por una mentalidad proactiva y un compromiso con la mejora continua, lo que me lleva a estudiar y aprender constantemente tecnologías y nuevos conceptos.
+ class="subtitle">Desarrollador de software con experiencia en diseño de producto y gestión de proyectos.</span>  He trabajado en el desarrollo de soluciones frontend y backend, integrando servicios en la nube con prácticas CI/CD. Me caracterizo por una mentalidad proactiva y un compromiso con la mejora continua, lo que me lleva a estudiar y aprender constantemente tecnologías y nuevos conceptos.
 
 <h2 class="section-title">Experiencia Profesional</h2>
 
-### **Aim Edge Apps**  
-<span class="location">_Medellín_</span>  
-**Desarrollador FullStack**  
+<h3 class="job-company">Desarrollador FullStack  <span class="job-title"> - Aim Edge Apps </span></h3>
 <span class="date">Abril 2024 - Actualidad</span>
 
 - Contribuyo al desarrollo de aplicaciones web y mobile para nuestros clientes usando tecnologías como React, Next.js, Nest.js, Express.js, Flutter, servicios de AWS y MySQL.  
@@ -22,20 +20,19 @@
 - Aporto constantemente nuevas propuestas sobre buenas prácticas para realizar mejoras continuas en nuestros repositorios y procesos.  
 - Contribuyo con la investigación sobre nuevas tecnologías para aplicar en nuestros procesos y la construcción de pruebas de concepto sobre estas.
 
-### **Nation Wide Legal**  
-<span class="location">_Medellín_</span>  
-**Analista Bilingüe**  
+
+<h3 class="job-company"> Analista Bilingüe <span class="job-title"> - Nation Wide Legal </span> </h3>
 <span class="date">Octubre 2023 - Abril 2024</span>
 
 - Generé citaciones (Subpoenas) para firmas de abogados ubicadas en California (EE. UU.), comprendiendo los diferentes requerimientos y legislación para el servicio de estas.
 
-### **AKT Motos**  
-<span class="location">_Medellín_</span>  
-**Ingeniero de Desarrollo de Producto**  
+<h3 class="job-company">Ingeniero de Desarrollo de Producto  <span class="job-title">- AKT Motos </span> </h3> 
 <span class="date">Febrero 2021 - Diciembre 2022</span>
+<ul>
+<li>Coordiné el diseño, desarrollo y producción de subproductos plásticos mediante el trato directo con los proveedores y la línea de ensamble.  </li>
+<li>Diseñé piezas gráficas para las motocicletas y otras necesidades del área.</li>
 
-- Coordiné el diseño, desarrollo y producción de subproductos plásticos mediante el trato directo con los proveedores y la línea de ensamble.  
-- Diseñé piezas gráficas para las motocicletas y otras necesidades del área.
+</ul>
 
 
 
@@ -49,8 +46,8 @@
 <h2 class="section-title">Skills</h2>
 
 **Técnicos**  
-<span class="skills">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest`  
-`Next.js` `Linux` `Docker`</span>
+
+<span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
 
 **Idiomas**  
 - Español: <span class="highlight">Nativo</span>  
@@ -59,21 +56,21 @@
 <h2 class="section-title">Educación</h2>
 
 <div class="education-item">
-  <h5 class="education-title">Bootcamps / Cursos</h5>
-    <span class="education-degree">Software Developer</span>   
+  <h5 class="education-title"> Software  Developer<span class="education-degree">- Bootcamps / Cursos</span>  </h5>
+     
   <span class="date">Enero 2022 - Actualidad</span>  
  
 </div>
 
 <div class="education-item">
-  <h5 class="education-title">EAFIT</h5>
-  <span class="education-degree">Especialización en Gerencia de Proyectos</span>  
+  <h5 class="education-title"> Especialización en Gerencia de Proyectos <span  class="education-degree"> - EAFIT</span>  </h5>
+
   <span class="date">Fecha de grado: Diciembre 2021</span>
 </div>
 
 <div class="education-item">
-  <h5 class="education-title">EAFIT</h5>
-  <span class="education-degree">Ingeniería de Diseño de Producto</span>   
+  <h5 class="education-title">Ingeniería de Diseño de Producto <span class="education-degree"> - EAFIT </span>   </h5>
+
   <span class="date">Fecha de grado: Junio 2020</span>
 
 
@@ -94,7 +91,7 @@
 
 <div class="reference-item">
   <span class="reference-name"><strong>Alejandro Ceren</strong></span><br>
-  <span class="reference-role">Master Data Analyst - Accenture</span><br>
+  <span class="reference-role">Data Quality Lead - Accenture</span><br>
   <span class="reference-phone">Celular: +57 313 6031 487</span>
 </div>
 </div>
@@ -104,8 +101,16 @@
 
 <style>
 
+  h3 {
+    padding: -1.4rem;
+    margin-block: -1rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
 .info {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
+    line-height: 0.8rem;
     color: #555;
     margin-bottom: 1rem;
     font-family: calibri, sans-serif;
@@ -122,18 +127,36 @@
     font-family: calibri, sans-serif;
   }
 
+  .job-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgba(19, 8, 8);
+    margin-bottom: 0.5rem;
+    margin-top: -1.2rem;
+    font-style: italic;
+  }
+
+  .job-company {
+    color: rgb(75, 75, 75);
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0rem;
+  }
+
   .nombre {
+  
     font-size: 2rem;
     font-weight: 600;
     color: #333;
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.4rem;
     }
 
   .section-title {
     font-size: 1.2rem;
-    font-weight: 600;
-    color: rgb(80, 80, 80);
-    margin-top: 2rem;
+    font-weight: 700;
+    color: rgb(60, 67, 107);
+    margin-top: 1.2rem;
     margin-bottom: 0.2rem;
     border-bottom: 0.1rem solid rgba(212, 212, 212, 0.52);
   }
@@ -154,12 +177,6 @@
     font-weight: 600;
   }
 
-  .date {
-      font-size: 0.9rem;
-    color: #555;
-
-  }
-
   .skills {
     color: #007bff;
   }
@@ -174,20 +191,16 @@
     display: block;
   }
 
-  .education-degree {
-    font-weight: 200;
-    font-style: italic;
-  }
 </style>
 
 <style>
   .education-item {
-    margin-bottom: 0.8rem;
-    padding: 0.5rem 0;
+    margin-bottom: 0rem;
+    padding:  0;
   }
 
   .education-title {
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 0.2rem;
@@ -197,7 +210,6 @@
     font-style: italic;
     font-weight: 500;
     color: #555;
-    display: block;
     margin-bottom: 0.2rem;
   }
 
@@ -205,12 +217,13 @@
     font-size: 0.9rem;
     color: #777;
     display: block;
-    margin-top: -0.8rem;
+    margin-top: -1.2rem;
   }
 
   .date {
     font-size: 0.85rem;
     color: #555;
+    margin-top: -0.2rem;
   }
 
   .education-description {
