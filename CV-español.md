@@ -1,6 +1,6 @@
 <div style="display: grid; grid-template-columns: 7fr 4fr; gap: 1.5rem; font-size: 0.85rem; margin-top: -2rem;">
 
-  <!-- Columna principal (3fr) -->
+
   <div class="main-column">
 
 <h1 class="nombre">Luis Alberto Ceren</h1>
@@ -31,16 +31,11 @@
 <ul>
 <li>Coordiné el diseño, desarrollo y producción de subproductos plásticos mediante el trato directo con los proveedores y la línea de ensamble.  </li>
 <li>Diseñé piezas gráficas para las motocicletas y otras necesidades del área.</li>
-
 </ul>
-
-
-
-
 
   </div>
 
-  <!-- Barra lateral (1fr) -->
+
   <div class="sidebar">
 
 <h2 class="section-title">Skills</h2>
