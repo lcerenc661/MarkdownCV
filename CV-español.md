@@ -15,21 +15,21 @@
 <h3 class="job-company">Desarrollador FullStack  <span class="job-title"> - Aim Edge Apps </span></h3>
 <span class="date">Abril 2024 - Actualidad</span>
 
-- Contribuyo al desarrollo de aplicaciones web y mobile para nuestros clientes usando tecnologías como React, Next.js, Nest.js, Express.js, Flutter, servicios de AWS y MySQL.  
-- Participo activamente en la estimación y diseño de nuevos proyectos.  
-- Aporto constantemente nuevas propuestas sobre buenas prácticas para realizar mejoras continuas en nuestros repositorios y procesos.  
-- Contribuyo con la investigación sobre nuevas tecnologías para aplicar en nuestros procesos y la construcción de pruebas de concepto sobre estas.
+- Contribuyo como desarrollador full stack para crear y dar mantenimiento a aplicaciones web y mobile para nuestros clientes, usando tecnologías como React, Next.js, Nest.js, Express.js, Flutter, servicios de AWS y bases de datos MySQL.  
+- Participo activamente en la estimación y diseño de nuevos proyectos, definiendo arquitecturas, infraestructura y flujos de trabajo.  
+- He promovido prácticas para estandarizar el código de nuestros repositorios, basándome en un patrón de arquitectura limpia, además de proponer nuevos estándares de calidad de código: como estandarización de respuestas HTTP, implementación de estrategias de manejo de errores, implementación de Swagger con Nest para documentar las APIs, entre otros. 
+- Contribuyo con la investigación sobre nuevas tecnologías basadas en IA para aplicar en nuestros procesos y la construcción de pruebas de concepto sobre estas.
 
 
-<h3 class="job-company"> Analista Bilingüe <span class="job-title"> - Nation Wide Legal </span> </h3>
+<h3 class="job-company">Analista Bilingüe <span class="job-title"> - Nation Wide Legal </span> </h3>
 <span class="date">Octubre 2023 - Abril 2024</span>
 
-- Generé citaciones (Subpoenas) para firmas de abogados ubicadas en California (EE. UU.), comprendiendo los diferentes requerimientos y legislación para el servicio de estas.
+- Generé citaciones (subpoenas) para firmas de abogados ubicadas en California (EE. UU.), comprendiendo los diferentes requerimientos y la legislación para el servicio de estas.
 
 <h3 class="job-company">Ingeniero de Desarrollo de Producto  <span class="job-title">- AKT Motos </span> </h3> 
 <span class="date">Febrero 2021 - Diciembre 2022</span>
 <ul>
-<li>Coordiné el diseño, desarrollo y producción de subproductos plásticos mediante el trato directo con los proveedores y la línea de ensamble.  </li>
+<li>Coordiné el diseño, desarrollo y producción de subproductos plásticos mediante el trato directo con los proveedores y la línea de ensamble.</li>
 <li>Diseñé piezas gráficas para las motocicletas y otras necesidades del área.</li>
 </ul>
 
@@ -46,30 +46,30 @@
 
 **Idiomas**  
 - Español: <span class="highlight">Nativo</span>  
-- English: <span class="highlight">Fluido (C1)</span>
+- Inglés: <span class="highlight">Fluido (C1)</span>
 
 <h2 class="section-title">Educación</h2>
 
 <div class="education-item">
-  <h5 class="education-title"> Software  Developer<span class="education-degree">- Bootcamps / Cursos</span>  </h5>
+  <h5 class="education-title">Software Developer <span class="education-degree">- Bootcamps / Cursos</span></h5>
      
   <span class="date">Enero 2022 - Actualidad</span>  
  
 </div>
 
 <div class="education-item">
-  <h5 class="education-title"> Especialización en Gerencia de Proyectos <span  class="education-degree"> - EAFIT</span>  </h5>
+  <h5 class="education-title">Especialización en Gerencia de Proyectos <span  class="education-degree"> - EAFIT</span></h5>
 
   <span class="date">Fecha de grado: Diciembre 2021</span>
 </div>
 
 <div class="education-item">
-  <h5 class="education-title">Ingeniería de Diseño de Producto <span class="education-degree"> - EAFIT </span>   </h5>
+  <h5 class="education-title">Ingeniería de Diseño de Producto <span class="education-degree"> - EAFIT </span></h5>
 
   <span class="date">Fecha de grado: Junio 2020</span>
 
 
-  <h2 class="section-title">Referencias </h2>
+  <h2 class="section-title">Referencias</h2>
 
 
 <div class="reference-item">

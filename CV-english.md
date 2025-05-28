@@ -18,8 +18,8 @@
 <span class="date">April 2024 - Present</span>
 
 - Develop and mantain of web and mobile applications for our clients using technologies such as React, Next.js, Nest.js, Express.js, Flutter, AWS services, and MySQL.  
-- Participate in the estimation and design of new projects.  
-- Propose and promote best practices to improve our code quality, project architercture, and development processes.  
+- Participate in the estimation and design of new projects, defining architectures, infrastructure, and workflows.  
+- I have promoted practices to standardize the code in our repositories, based on a clean architecture pattern, and have proposed new code quality standards, such as HTTP response standardization, implementation of error handling strategies, and the use of Swagger with Nest to document APIs, among others.  
 - Conduct to research on new technologies and create proof of concepts to evaluate their potential for integration into ongoing projects.
 
 <h3 class="job-company">Bilingual Analyst <span class="job-title"> - Nation Wide Legal </span></h3>
