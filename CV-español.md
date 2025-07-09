@@ -1,25 +1,29 @@
 <div style="display: grid; grid-template-columns: 7fr 4fr; gap: 1.5rem; font-size: 0.85rem; margin-top: -2rem;">
 
-
   <div class="main-column">
 
 <h1 class="nombre">Luis Alberto Ceren</h1>
 <h4 class="job">Software developer</h4>
-<span class="info">Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
+<span class="info">luiscerenc18@gmail.com 
+</br>
+https://www.linkedin.com/in/luis-alberto-ceren-4536531b0
+</br>
+Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
 
+<div class="intro-paragraph">
 <span
- class="subtitle">Desarrollador de software con experiencia en diseño de producto y gestión de proyectos.</span>  He trabajado en el desarrollo de soluciones frontend y backend, integrando servicios en la nube con prácticas CI/CD. Me caracterizo por una mentalidad proactiva y un compromiso con la mejora continua, lo que me lleva a estudiar y aprender constantemente tecnologías y nuevos conceptos.
+ class="subtitle">Desarrollador de software con experiencia en diseño de producto y gestión de proyectos.</span> He trabajado en el desarrollo de soluciones frontend y backend, integrando servicios en la nube con prácticas CI/CD. Me caracterizo por una mentalidad proactiva y un compromiso con la mejora continua, lo que me lleva a estudiar y aprender constantemente tecnologías y nuevos conceptos.
+ </div>
 
 <h2 class="section-title">Experiencia Profesional</h2>
 
 <h3 class="job-company">Desarrollador FullStack  <span class="job-title"> - Aim Edge Apps </span></h3>
 <span class="date">Abril 2024 - Actualidad</span>
 
-- Contribuyo como desarrollador full stack para crear y dar mantenimiento a aplicaciones web y mobile para nuestros clientes, usando tecnologías como React, Next.js, Nest.js, Express.js, Flutter, servicios de AWS y bases de datos MySQL.  
-- Participo activamente en la estimación y diseño de nuevos proyectos, definiendo arquitecturas, infraestructura y flujos de trabajo.  
-- He promovido prácticas para estandarizar el código de nuestros repositorios, basándome en un patrón de arquitectura limpia, además de proponer nuevos estándares de calidad de código: como estandarización de respuestas HTTP, implementación de estrategias de manejo de errores, implementación de Swagger con Nest para documentar las APIs, entre otros. 
+- Contribuyo como desarrollador full stack para crear y dar mantenimiento a aplicaciones web y mobile para nuestros clientes, usando tecnologías como React, Next.js, Nest.js, Express.js, Flutter, servicios de AWS y bases de datos MySQL.
+- Participo activamente en la estimación y diseño de nuevos proyectos, definiendo arquitecturas, infraestructura y flujos de trabajo.
+- He promovido prácticas para estandarizar el código de nuestros repositorios, basándome en un patrón de arquitectura limpia, además de proponer nuevos estándares de calidad de código: como estandarización de respuestas HTTP, implementación de estrategias de manejo de errores, implementación de Swagger con Nest para documentar las APIs, entre otros.
 - Contribuyo con la investigación sobre nuevas tecnologías basadas en IA para aplicar en nuestros procesos y la construcción de pruebas de concepto sobre estas.
-
 
 <h3 class="job-company">Analista Bilingüe <span class="job-title"> - Nation Wide Legal </span> </h3>
 <span class="date">Octubre 2023 - Abril 2024</span>
@@ -35,17 +39,17 @@
 
   </div>
 
-
   <div class="sidebar">
 
 <h2 class="section-title">Skills</h2>
 
-**Técnicos**  
+**Técnicos**
 
 <span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
 
-**Idiomas**  
-- Español: <span class="highlight">Nativo</span>  
+**Idiomas**
+
+- Español: <span class="highlight">Nativo</span>
 - Inglés: <span class="highlight">Fluido (C1)</span>
 
 <h2 class="section-title">Educación</h2>
@@ -60,17 +64,16 @@
 <div class="education-item">
   <h5 class="education-title">Especialización en Gerencia de Proyectos <span  class="education-degree"> - EAFIT</span></h5>
 
-  <span class="date">Fecha de grado: Diciembre 2021</span>
+<span class="date">Fecha de grado: Diciembre 2021</span>
+
 </div>
 
 <div class="education-item">
   <h5 class="education-title">Ingeniería de Diseño de Producto <span class="education-degree"> - EAFIT </span></h5>
 
-  <span class="date">Fecha de grado: Junio 2020</span>
-
+<span class="date">Fecha de grado: Junio 2020</span>
 
   <h2 class="section-title">Referencias</h2>
-
 
 <div class="reference-item">
   <span class="reference-name"><strong>Mauricio Guzmán</strong></span><br>
@@ -91,9 +94,6 @@
 </div>
 </div>
 
-  
-
-
 <style>
 
   h3 {
@@ -103,8 +103,10 @@
     font-weight: 600;
   }
 
+  
+
 .info {
-    font-size: 0.8rem;
+    font-size: 0.69rem;
     line-height: 0.8rem;
     color: #555;
     margin-bottom: 1rem;
@@ -158,7 +160,7 @@
 
   .main-column {
     padding: 1rem;
-    line-height: 1.5;
+    line-height: 1.45;
     font-family: calibri, sans-serif;
 
   }
@@ -170,6 +172,7 @@
 
   .subtitle {
     font-weight: 600;
+    line-height: 0.8rem
   }
 
   .skills {

@@ -1,14 +1,13 @@
-
-
-
 <div style="display: grid; grid-template-columns: 7fr 4fr; gap: 1.5rem; font-size: 0.85rem; margin-top: -2rem;">
-
 
   <div class="main-column">
 
 <h1 class="nombre">Luis Alberto Ceren</h1>
 <h4 class="job">Software Developer</h4>
-<span class="info">Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
+<span class="info">luiscerenc18@gmail.com 
+</br>
+https://www.linkedin.com/in/luis-alberto-ceren-4536531b0
+</br>Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
 
 <span class="subtitle">Software developer with experience in product design and project management.</span> 1+ work experience on the development of frontend and backend solutions, integrating cloud services with CI/CD practices. I am characterized by a proactive mindset and a commitment to continuous improvement, which drives me to constantly study and learn new technologies and concepts.
 
@@ -17,9 +16,9 @@
 <h3 class="job-company">FullStack Developer <span class="job-title"> - Aim Edge Apps </span></h3>
 <span class="date">April 2024 - Present</span>
 
-- Develop and mantain of web and mobile applications for our clients using technologies such as React, Next.js, Nest.js, Express.js, Flutter, AWS services, and MySQL.  
-- Participate in the estimation and design of new projects, defining architectures, infrastructure, and workflows.  
-- I have promoted practices to standardize the code in our repositories, based on a clean architecture pattern, and have proposed new code quality standards, such as HTTP response standardization, implementation of error handling strategies, and the use of Swagger with Nest to document APIs, among others.  
+- Develop and maintain of web and mobile applications for our clients using technologies such as React, Next.js, Nest.js, Express.js, Flutter, AWS services, and MySQL.
+- Participate in the estimation and design of new projects, defining architectures, infrastructure, and workflows.
+- I have promoted practices to standardize the code in our repositories, based on a clean architecture pattern, and have proposed new code quality standards, such as HTTP response standardization, implementation of error handling strategies, and the use of Swagger with Nest to document APIs, among others.
 - Conduct to research on new technologies and create proof of concepts to evaluate their potential for integration into ongoing projects.
 
 <h3 class="job-company">Bilingual Analyst <span class="job-title"> - Nation Wide Legal </span></h3>
@@ -37,7 +36,6 @@
 
   </div>
 
-
   <div class="sidebar">
 
 <h2 class="section-title">Skills</h2>
@@ -45,8 +43,9 @@
 **Technical**  
 <span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
 
-**Languages**  
-- Spanish: <span class="highlight">Native</span>  
+**Languages**
+
+- Spanish: <span class="highlight">Native</span>
 - English: <span class="highlight">Fluent (C1)</span>
 
 <h2 class="section-title">Education</h2>
