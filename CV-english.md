@@ -41,7 +41,7 @@ https://www.linkedin.com/in/luis-alberto-ceren-4536531b0
 <h2 class="section-title">Skills</h2>
 
 **Technical**  
-<span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
+<span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Java` `Dart (Flutter)` `AWS` `Spring Boot` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
 
 **Languages**
 
@@ -51,12 +51,19 @@ https://www.linkedin.com/in/luis-alberto-ceren-4536531b0
 <h2 class="section-title">Education</h2>
 
 <div class="education-item">
+  <h5 class="education-title">Specialization in Software Engineering (Postgraduate) <span class="education-degree">- ITM </span></h5>
+     
+  <span class="date">August 2025 - Present</span>  
+ 
+</div>
+
+<div class="education-item">
   <h5 class="education-title">Software Developer <span class="education-degree"> - Bootcamps / Courses</span></h5>
   <span class="date">January 2022 - Present</span>  
 </div>
 
 <div class="education-item">
-  <h5 class="education-title">Specialization in Project Management <span class="education-degree"> - EAFIT</span></h5>
+  <h5 class="education-title">Specialization in Project Management (Postgraduate) <span class="education-degree"> - EAFIT</span></h5>
   <span class="date">Graduation date: December 2021</span>
 </div>
 

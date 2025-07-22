@@ -45,7 +45,7 @@ Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
 
 **Técnicos**
 
-<span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Dart (Flutter)` `AWS` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
+<span style="color:#007bff; font-weight:500;">`Python` `TypeScript` `JavaScript` `Java` `Dart (Flutter)` `AWS` `Spring Boot` `SQL` `React` `Nest` `Next.js` `Linux` `Docker`</span>
 
 **Idiomas**
 
@@ -53,6 +53,13 @@ Medellín, Colombia | +57 314 510 3005 | https://github.com/lcerenc661 </span>
 - Inglés: <span class="highlight">Fluido (C1)</span>
 
 <h2 class="section-title">Educación</h2>
+
+<div class="education-item">
+  <h5 class="education-title">Especialización en Ingenieria de software<span class="education-degree">- ITM </span></h5>
+     
+  <span class="date">Agosto 2025 - Cursando</span>  
+ 
+</div>
 
 <div class="education-item">
   <h5 class="education-title">Software Developer <span class="education-degree">- Bootcamps / Cursos</span></h5>
